@@ -1,0 +1,31 @@
+{
+  "name": "discord-role-bot",
+  "version": "0.1.0",
+  "description": "Click reaction to get roles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/illegal-function/discord-role-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "ptp"
+  ],
+  "author": "illegal-function",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/illegal-function/discord-role-bot/issues"
+  },
+  "homepage": "https://github.com/illegal-function/discord-role-bot#readme",
+  "dependencies": {
+    "bufferutil": "^3.0.5",
+    "debug": "^3.1.0",
+    "discord.js": "^11.4.2",
+    "dotenv": "^6.0.0",
+    "erlpack": "github:discordapp/erlpack",
+    "uws": "^9.148.0"
+  }
+}
